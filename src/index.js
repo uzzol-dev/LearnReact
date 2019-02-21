@@ -6,7 +6,7 @@ import { Race, LionMove } from "./MouseRace";
 import "./styles.css";
 
 const style = {
-  height: 80 + "px",
+  height: 88 + "px",
   overflow: "scroll",
   backgroundColor: "green"
 };
